@@ -1,0 +1,4 @@
+ID,Oportunidades,BP_ID,VenderServicio_ID,TarifaAprox,FechaInicio,FechaFin,ValorTarifa_code,Tiempoaprox,Tiempo_code,Status_code
+27814383-bd29-40cf-aeec-04e795289edb,Oportunidades-27814383,28129481-03c2-43c2-94a7-d35c84d16268,20594064-cba9-4af0-9ed6-620293a85f3d,89.25,2011-07-28,2007-08-26,String,Tiempoaprox-27814383,String,String
+27814384-dc24-41f3-8dc2-c443e3d87428,Oportunidades-27814384,28129481-03c2-43c2-94a7-d35c84d16268,20594064-cba9-4af0-9ed6-620293a85f3d,62.21,2016-03-29,2023-05-20,String,Tiempoaprox-27814384,String,String
+27814385-0f6f-4e8b-8bed-1608af2c1e5e,Oportunidades-27814385,28129481-03c2-43c2-94a7-d35c84d16268,20594064-cba9-4af0-9ed6-620293a85f3d,89.43,2004-12-10,2004-10-06,String,Tiempoaprox-27814385,String,String
